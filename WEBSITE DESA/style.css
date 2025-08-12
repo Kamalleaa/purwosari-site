@@ -1,0 +1,55 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fffcfb;
+}
+
+.container-header {
+    background-color: #093fb4;
+
+}
+
+.ul-header {
+    display: flex;
+    height: 100px;
+    align-items: center;
+}
+
+.li-header1 {
+    list-style-type: none;
+    padding: 3px;
+    margin: 2px;
+    color: white;
+    font-size: xx-large;
+}
+
+.li-header2 {
+    list-style-type: none;
+    font-style: oblique;
+    padding: 3px;
+    margin: 2px;
+    color: white;
+}
+
+.li-header3 {
+    list-style-type: none;
+    padding: 3px;
+    margin: 2px;
+    color: white;
+}
+
+.li-header4 {
+    list-style-type: none;
+    padding: 3px;
+    margin: 2px;
+    color: white;
+}
+
+.h3-profildesa {
+    margin: 3px;
+}
